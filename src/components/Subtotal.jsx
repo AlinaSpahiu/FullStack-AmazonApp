@@ -31,5 +31,4 @@ function Subtotal() {
         </div>
     )
 }
-
 export default Subtotal
