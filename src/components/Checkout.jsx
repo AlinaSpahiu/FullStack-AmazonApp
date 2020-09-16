@@ -34,7 +34,6 @@ function Checkout() {
                <Subtotal />               
             </div>
         </div>
-    )
-}
+    )}
 
 export default Checkout
