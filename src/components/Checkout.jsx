@@ -5,7 +5,6 @@ import CheckoutProduct from './CheckoutProduct';
 import image from "../../src/components/images/header-image.jpg"
 import { getBasketTotal } from '../reducer';
 import {useStateValue} from "../StateProvider";
-
 function Checkout() {
     const [{basket, user}, dispatch] = useStateValue();
     return (
