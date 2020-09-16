@@ -29,9 +29,7 @@ function Checkout() {
                              rating={item.rating}
                          />
                    ))}
-                   
-
-                       
+                      
                 </div>
             </div>
 
