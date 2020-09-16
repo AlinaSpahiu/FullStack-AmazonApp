@@ -15,7 +15,8 @@ function Checkout() {
             <div className="checkout-left">
                 {/* Banner - Ad */}
                 <img className="checkout-ad" 
-                     src="https://www.tea-for-two.com/wp-content/uploads/2013/10/teafortwo_web_banners_rumbo_2_1.gif" />          
+                     src="https://www.tea-for-two.com/wp-content/uploads/2013/10/teafortwo_web_banners_rumbo_2_1.gif" />   
+                
                 <div>
                    <h3>Hello, {user.email}</h3>
                    <h2 className="checkout-title">Your shopping basket</h2>
